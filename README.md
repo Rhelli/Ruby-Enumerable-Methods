@@ -34,6 +34,7 @@ The assignment can be found in the Odin Project's HTML and CSS course that can b
 
 - Ruby 2.3.7p456
 - Rubocop
+- RSpec 3.9
 - Stickler-CI
 - Git Flow
 
